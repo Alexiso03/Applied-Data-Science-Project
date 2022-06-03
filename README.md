@@ -4,10 +4,10 @@ This is IBM Data Science project for spaceX, In this project a prediction is nee
 dollars;
 
 1. Data Collection API.ipynb: How I collected data using API's for falcon 9 launches
-2. Data Collection with Web Scraping.ipynb: How I collected data using web scraping for falcon 9 launches
+2. Data Collection with Web Scraping.ipynb: How I collected data using web scraping from wikipedia for falcon 9 launches
 3. EDA with SQL.ipynb: Exploratory Data Analysis with the help of Structured query language and database fetched
 4. EDA with Visualization.ipynb: Exploratory Data Analysis with the help of different Visualization obtained with the database
-5. Exploratory Data Analysis.ipynb: Exploratory Data Analysis of spaceX 
+5. Exploratory Data Analysis.ipynb: ETL(Extract Transform Load) on the dataset of spaceX 
 6. Interactive Dashboard(spacex_dash_app).py: Interactive Dashboard with the help of dash, in this data is arranged in systematic way so that different data with different feature can be fetched
 7. Interactive Visual Analytics with Folium.ipynb: Visual Map Analytics with the help of folium(python)
 8. Machine Learning Prediction.ipynb: final prediction using 4 different machine learning tools - Decision Tree, KNN, Logistic Regression and Support Vector Machine
